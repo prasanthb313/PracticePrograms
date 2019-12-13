@@ -20,7 +20,8 @@ public static void main(String[] args) {
 		   star+=2;
 		   space--;
 	   }
-	   else {
+	   else 
+	   {
 		   star-=2;
 		   space++;
 	   }
@@ -28,3 +29,4 @@ public static void main(String[] args) {
 }
 }
 }
+
